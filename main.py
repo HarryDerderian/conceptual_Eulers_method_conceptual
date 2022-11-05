@@ -49,7 +49,7 @@ def run(func, x, y, step, approx) :
 
     # Start calculations.
     euler_method(func, x, y, x_vals, y_vals, 
-                        step, approx)
+                                 step, approx)
     # Display data.
     output(x_vals,y_vals)
 
