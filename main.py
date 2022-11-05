@@ -5,7 +5,7 @@ def main() :
     print()  
     y_inital = 5
     x_inital = 1
-    approx = 1.499 # decimals of .5 and prone to rounding errors.
+    approx = 1.499 # decimals of .5 are prone to rounding errors.
     func = func_1    
     
     # PART 1
@@ -24,7 +24,7 @@ def main() :
     print()  
     y_inital = 0
     x_inital = 0
-    approx = 0.499 # decimals of .5 and prone to rounding errors.
+    approx = 0.499 # decimals of .5 are prone to rounding errors.
     func = func_2    
     
     # PART 1
